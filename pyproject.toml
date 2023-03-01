@@ -1,0 +1,7 @@
+[project]
+name = "passwordcard"
+version = "0.0.1"
+authors = [
+    {name = "Jamie Hardt", email = "jamiehardt@gmail.com"}
+]
+
